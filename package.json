@@ -1,0 +1,29 @@
+{
+  "name": "projitekfrontend",
+  "version": "1.0.0",
+  "description": "projitek",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jasonronalddavis/ProjitekFrontEnd.git"
+  },
+  "keywords": [
+    "barnes"
+  ],
+  "author": "Jason Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jasonronalddavis/ProjitekFrontEnd/issues"
+  },
+  "homepage": "https://github.com/jasonronalddavis/ProjitekFrontEnd#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

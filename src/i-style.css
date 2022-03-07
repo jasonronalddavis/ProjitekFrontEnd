@@ -1,0 +1,109 @@
+#show-ingredient {
+    position:absolute; top: 450px; left: -60px; z-index: 30;
+    overflow-x: scroll; width: 100vw; height: 30vw;
+    overflow-x: hidden;
+    width: 120%;
+}
+
+
+#i-proj-label {
+    position: absolute; top: 290px;  right: 43%; z-index: 80;
+        font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 500; line-height: 15.4px;
+        color:rgb(242, 250, 255);
+    }
+
+    #i-cat-label{
+        position: absolute; top: 353px;  right: 43%; z-index: 80;
+            font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 500; line-height: 15.4px;
+            color:rgb(242, 250, 255);
+        }
+
+
+
+#sho-ing-cat {
+    position:absolute; left:45%; top: 400px; z-index: 80; 
+    font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; 
+    line-height: 20px;
+    color:rgb(0, 172, 199);
+    overflow-y: scroll; height: 20px; width: 150px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+ 
+}
+
+
+#sho-ing-proj {
+    position:relative; left:45%; top: 334px; z-index: 80; 
+    font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; 
+    line-height: 20px;
+    color:rgb(0, 172, 199);
+    overflow-y: scroll; height: 20px; width: 150px;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+}
+
+#i-name-label{
+    position:absolute; top: 60%; left:44.5%; z-index: 80;
+    font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 21px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+    margin-top: 10px; 
+    margin-left: -30px;
+    color:rgb(242, 250, 255);
+
+}
+
+#show-i-box{
+    position:absolute; width: 20%; left:40%; top: 40%;
+
+}
+
+#show-ingredient-name  {
+    position:absolute; top: 69%; left:46%; z-index: 80;
+    font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+    margin-top: 10px; 
+    margin-left: -30px;
+    color:rgb(0, 172, 199);
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+    }
+
+
+    #show-price  {
+        position:absolute; top: 590px; left:50%; z-index: 80;
+        font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+        margin-top: 10px; 
+        margin-left: -30px;
+        color:rgb(0, 172, 199);
+        text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+        }
+    
+
+        #i-price-label{
+            position:absolute; top: 550px; left:49%; z-index: 80;
+            font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 15.4px;
+            margin-top: 10px; 
+            margin-left: -30px;
+            color:rgb(242, 250, 255);
+        }
+    
+        #show-ingredient-description  {
+            position:absolute; top: 450px; left:44%; z-index: 80;
+            font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 16px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 20px;
+            color:rgb(0, 172, 199);
+            overflow-y: scroll; height: 70px; 
+            overflow-x: scroll; width: 175px; 
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.2);
+        }
+        
+        #i-des-label {
+            position: absolute; top: 420px;  right: 43%; z-index: 80;
+                font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 500; line-height: 15.4px;
+                color:rgb(242, 250, 255);
+            }
+
+
+
+            #edit-ingredient-form{
+                position:absolute; right:40%; top: 50%; 
+                color: rgb(247, 87, 12);
+                font-family: "futura", Trebuchet MS, Arial, sans-serif; font-size: 20px; font-style: normal; font-variant: normal; font-weight: 700; 
+                font-weight: lighter;
+                line-height: 20pt;
+                z-index: 20;
+            }
